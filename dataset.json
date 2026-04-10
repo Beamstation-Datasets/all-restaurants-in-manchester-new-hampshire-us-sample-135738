@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Manchester, New Hampshire with a population of over 115k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Manchester, New Hampshire, US",
+  "export_job_id": "ee8e6f02-1add-44ea-bf14-ac567a11a26d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 135738,
+  "location_name": "Manchester",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-manchester-new-hampshire-us-sample-135738",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/135738/beamstation_135738_restaurants-us-nh_SAMPLE_DIST.csv",
+  "sample_pct": 9.87,
+  "sample_records": 53,
+  "sample_sha256": "8449bc8584e9f14465023ac9e0e5e761defa12943b2eb2139d33eacc14d5713f",
+  "sample_size_bytes": 216388,
+  "total_records": 537,
+  "updated_at": "2026-04-09T10:47:48.662150+00:00"
+}
