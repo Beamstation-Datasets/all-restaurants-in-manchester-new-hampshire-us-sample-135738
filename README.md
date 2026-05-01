@@ -1,6 +1,6 @@
 # All Restaurants in Manchester, New Hampshire, US
 
-> Free BeamStation sample export with 42 rows and masked direct-contact fields.
+> Free BeamStation sample export with 53 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `135738` |
 | Location | Manchester |
 | Category | Restaurants |
-| Full dataset size | 429 records |
-| Free sample size | 42 records (9.79%) |
-| Last export | 2026-04-23T10:25:53.371194+00:00 |
+| Full dataset size | 533 records |
+| Free sample size | 53 records (9.94%) |
+| Last export | 2026-04-30T21:16:26.142517+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-manchester-new-hampshire-us-sample-135738/releases/download/sample-latest/beamstation_135738_restaurants-us-nh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
