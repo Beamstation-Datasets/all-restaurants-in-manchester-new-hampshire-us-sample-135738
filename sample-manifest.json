@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d7055b13-e71e-4746-ad5a-9bea36073d4c",
+  "export_job_id": "b017a879-e0b3-476c-976f-356d9f41243b",
   "id_short": 135738,
-  "published_at": "2026-04-23T19:02:00Z",
+  "published_at": "2026-05-01T07:02:29Z",
   "repo_name": "all-restaurants-in-manchester-new-hampshire-us-sample-135738",
   "sample_asset_name": "beamstation_135738_restaurants-us-nh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/135738/beamstation_135738_restaurants-us-nh_SAMPLE_DIST.csv",
-  "sample_records": 42,
-  "sample_sha256": "3d162a29a0bbf81e3b378fdb06fb7d6ef4d5eb93267203a9a218fda3a2dbd7d7",
-  "sample_size_bytes": 147689,
-  "total_records": 429
+  "sample_records": 53,
+  "sample_sha256": "8d7b17c1194f3f2b951b7ca2d2822d7bcc67f04e677176a6f974f6ed480c2d04",
+  "sample_size_bytes": 185381,
+  "total_records": 533
 }
